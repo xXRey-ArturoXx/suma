@@ -16,3 +16,4 @@ resultado = suma(a, b)
 
 print("La suma de los 2 numeros de a + b es = ", resultado)
 print("Cambios desde la laptop")
+print("Cambios desde escritorio")
